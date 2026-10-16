@@ -129,7 +129,7 @@ function drawPersonalization(name, designation) {
   ctx.fillText(
     designation,
     W * 0.5,
-    H * 0.859,
+    H * 0.862,
     W * 0.78
   );
 
